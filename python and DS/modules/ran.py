@@ -16,3 +16,6 @@ print("sampled elements",random.sample(num,k=2))
 #seed -->random num generated is fixed and that random value is same repetaed always
 random.seed(24)
 print("random  same number",random.randint(10,50))
+
+
+print("Hello")
