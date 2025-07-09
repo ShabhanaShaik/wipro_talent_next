@@ -1,0 +1,9 @@
+command line arguments:
+sys module
+sys.argv-sys.argv[0],
+sys.argv[1]......
+error handling 
+sys.argv --->sys module
+index default starts from 0
+
+argparse-  give flags,optional args 
