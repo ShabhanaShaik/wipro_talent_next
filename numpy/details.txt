@@ -1,0 +1,15 @@
+numpy---
+matrices-coordinates location
+math functions statistics/algebre
+
+np.andom.rand() --->uniform random values
+np.random.randn() --->non uniform
+np.dot ---multiplication of matrices
+np.arange()--->random range of values
+np.array()---->create/delete/access
+np.zeros()/ones() -->creates an rentire array with 0/1
+np.mean()
+np.std()
+np.unique()
+np.linalg.inv()
+vstack and hstack for vertical and horizontal 
