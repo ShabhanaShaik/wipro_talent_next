@@ -1,0 +1,27 @@
+import matplotlib as plt
+import numpy as np 
+x=[1,2,3,4,5]
+y=[10,20,30,40,50]
+plt.plot(x,y)
+plt.show()
+
+plot keywords:
+color-linecolor--'red'/ color code #ccc000
+linestyle-- lin type--'-','--',':','.','._.'/-.-
+line width-- thickness of the line-2,3.5,4
+marker--  marker type symbol-'o','s','^','<',.....
+marker size--6,8,9,10
+marker color--'yellow',etc
+marker edge color--'black'
+label--legend-line1,line5
+
+plt.title()---plottitle (heading)
+plt.xlabel(),ylabel() axis labels
+plt.grid()---background grid line on plot
+plt.axis()---- set the axis limits---x,y limits
+plt.xticks()---set the x-axis tick values--labels
+plt.yticks()---set the y axis tick values---labels
+plt.figure()---creates a new figure (plot)
+plt.gca().set_facecolor('grey')
+plt.gcf().set_facecolor('brown')
+

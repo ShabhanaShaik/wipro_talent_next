@@ -1,0 +1,6 @@
+patient_id,patient_name,age,dept,bill_no,admission_date
+p1,Vijay,37.0,neurology,612000.0,2025-05-12
+p2,Ajay,45.0,cancer,200000.0,2025-09-19
+p3,Suresh,,cancer,33000.0,2024-01-22
+p4,Amit,33.0,cardiology,530000.0,2024-9-12
+p5,,48.0,pulmonory,807000.0,2025-02-08
